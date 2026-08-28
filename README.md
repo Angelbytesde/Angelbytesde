@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/angelbytes-profile-avatar-marked.png" alt="Angelbytes abstract blue and yellow brand mark" width="156">
+</p>
+
 <div align="center">
   <a href="https://angelbytes.de/">
     <img src="./assets/angelbytes-profile-hero.svg" alt="Angelbytes — digital products, websites, and software" width="100%">
@@ -53,10 +57,7 @@ decisions without adding operational noise.
 ## Selected work
 
 <a href="https://angelbytes.de/">
-  <img src="https://angelbytes.de/assets/angelbytes-design-system.webp" alt="Angelbytes design system work" width="48%">
-</a>
-<a href="https://angelbytes.de/">
-  <img src="https://angelbytes.de/assets/angelbytes-software-architecture.webp" alt="Angelbytes software architecture work" width="48%">
+  <img src="./assets/angelbytes-website-preview.png" alt="Angelbytes website showing the floating navigation, blue brand system, and editorial hero layout" width="100%">
 </a>
 
 <p><a href="https://angelbytes.de/">Explore the Angelbytes website and current work</a></p>
