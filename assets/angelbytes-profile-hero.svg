@@ -1,18 +1,29 @@
-<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Angelbytes profile header</title>
-  <desc id="desc">A deep blue Angelbytes wordmark with a yellow ab. mark and precise editorial geometry.</desc>
-  <rect width="1200" height="560" rx="36" fill="#1248D5"/>
-  <path d="M0 455H1200" stroke="#5F8CFF" stroke-opacity="0.7"/>
-  <path d="M0 108H1200" stroke="#5F8CFF" stroke-opacity="0.55"/>
-  <path d="M174 0V560M1014 0V560" stroke="#5F8CFF" stroke-opacity="0.55"/>
-  <circle cx="174" cy="108" r="116" stroke="#5F8CFF" stroke-opacity="0.75"/>
-  <circle cx="1014" cy="455" r="152" stroke="#5F8CFF" stroke-opacity="0.75"/>
-  <circle cx="1014" cy="108" r="34" fill="#F6C945"/>
-  <path d="M1014 108L1200 108" stroke="#F6C945" stroke-opacity="0.8"/>
-  <path d="M1014 108L1014 0" stroke="#F6C945" stroke-opacity="0.8"/>
-  <text x="78" y="92" fill="#F6C945" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="2">ab.</text>
-  <text x="78" y="302" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" letter-spacing="-5">angelbytes</text>
-  <text x="84" y="364" fill="#FFFFFF" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1.4">WEB DESIGN  /  SOFTWARE DEVELOPMENT  /  DIGITAL TOOLS</text>
-  <text x="84" y="503" fill="#FFFFFF" fill-opacity="0.78" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">DIGITAL WORK WITH A HUMAN SCALE</text>
-  <rect x="1047" y="494" width="76" height="4" rx="2" fill="#F6C945"/>
+<svg width="1440" height="560" viewBox="0 0 1440 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Angelbytes website-style profile header</title>
+  <desc id="desc">A wide deep-blue Angelbytes header with a floating off-white navigation bar, editorial headline, and restrained yellow accent.</desc>
+  <rect width="1440" height="560" rx="36" fill="#1248D5"/>
+  <path d="M0 442H1440" stroke="#5F8CFF" stroke-opacity="0.65"/>
+  <path d="M1080 0V560" stroke="#5F8CFF" stroke-opacity="0.45"/>
+  <path d="M0 152H1440" stroke="#5F8CFF" stroke-opacity="0.35"/>
+  <circle cx="1080" cy="442" r="152" stroke="#5F8CFF" stroke-opacity="0.75"/>
+  <circle cx="1080" cy="152" r="36" fill="#F6C945"/>
+  <path d="M1080 152H1440" stroke="#F6C945" stroke-opacity="0.85"/>
+  <path d="M1080 152V0" stroke="#F6C945" stroke-opacity="0.85"/>
+
+  <rect x="44" y="28" width="1352" height="84" rx="42" fill="#F7F5ED"/>
+  <text x="86" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0.2">Services</text>
+  <text x="220" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">Work</text>
+  <text x="300" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">Process</text>
+  <text x="420" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">About</text>
+  <text x="512" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">Insights</text>
+  <text x="626" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">Contact</text>
+  <rect x="1180" y="46" width="66" height="48" rx="24" fill="#FFFFFF" stroke="#1248D5" stroke-width="3"/>
+  <text x="1203" y="77" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">EN</text>
+  <text x="1280" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.6">ANGELBYTES</text>
+
+  <text x="86" y="208" fill="#F6C945" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">ANGELBYTES STUDIO</text>
+  <text x="84" y="335" fill="#FFFFFF" font-family="Georgia, Times New Roman, serif" font-size="86" font-style="italic" letter-spacing="-2">Digital work with</text>
+  <text x="84" y="423" fill="#FFFFFF" font-family="Georgia, Times New Roman, serif" font-size="86" font-style="italic" letter-spacing="-2">a human scale.</text>
+  <text x="86" y="496" fill="#FFFFFF" fill-opacity="0.86" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1.2">WEB DESIGN  /  SOFTWARE DEVELOPMENT  /  DIGITAL TOOLS</text>
+  <rect x="1280" y="494" width="76" height="4" rx="2" fill="#F6C945"/>
 </svg>

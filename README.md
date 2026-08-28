@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/angelbytes-profile-avatar-marked.png" alt="Angelbytes abstract blue and yellow brand mark" width="156">
+  <img src="./assets/angelbytes-profile-avatar.png" alt="Angelbytes ab. brand mark integrated into a blue and warm-white icon" width="156">
 </p>
 
 <div align="center">
