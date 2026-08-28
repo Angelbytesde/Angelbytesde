@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/angelbytes-profile-avatar.png" alt="Angelbytes ab. brand mark integrated into a blue and warm-white icon" width="156">
-</p>
-
 <div align="center">
   <a href="https://angelbytes.de/">
     <img src="./assets/angelbytes-profile-hero.svg" alt="Angelbytes — digital products, websites, and software" width="100%">
