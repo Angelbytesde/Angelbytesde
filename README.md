@@ -1,73 +1,82 @@
 <div align="center">
   <a href="https://angelbytes.de/">
-    <img src="https://angelbytes.de/og.png" alt="Angelbytes — digital products, websites, and software" width="640">
+    <img src="./assets/angelbytes-profile-hero.svg" alt="Angelbytes — digital products, websites, and software" width="100%">
   </a>
-
-  <h1>Angelbytes</h1>
-
-  <p><strong>Digital products, websites, and software built with clarity.</strong></p>
-
-  <p>
-    <a href="https://angelbytes.de/">Website</a>
-    ·
-    <a href="mailto:kontakt@angelbytes.de">Contact</a>
-    ·
-    <a href="https://github.com/Angelbytesde">GitHub profile</a>
-  </p>
 </div>
+
+<p align="center">
+  <a href="https://angelbytes.de/"><img src="https://img.shields.io/badge/WEBSITE-ANGELBYTES.DE-5F8CFF?style=flat-square&labelColor=0B0B0A" alt="Angelbytes website"></a>
+  <a href="https://github.com/Angelbytesde"><img src="https://img.shields.io/badge/PROFILE-ANGELBYTESDE-1248D5?style=flat-square&labelColor=0B0B0A" alt="Angelbytes GitHub profile"></a>
+  <a href="mailto:kontakt@angelbytes.de"><img src="https://img.shields.io/badge/CONTACT-KONTAKT%40ANGELBYTES.DE-F6C945?style=flat-square&labelColor=0B0B0A" alt="Contact Angelbytes"></a>
+</p>
+
+# Angelbytes
+
+<p><strong>Digital products, websites, and software built with clarity.</strong></p>
 
 Angelbytes is a small web design and software development studio for people
 who need digital work to be clear, useful, and dependable. We design and build
 websites, Windows desktop applications, and practical tools that turn complex
 work into a calmer experience.
 
+**[Website](https://angelbytes.de/)** · **[What we build](#what-we-build)** ·
+**[How we work](#how-we-work)** · **[Current focus](#current-focus)** ·
+**[Contact](#start-a-conversation)**
+
 ## What we build
 
-- **Web design** — responsive marketing sites and product interfaces with a
-  clear visual system, strong content hierarchy, and accessible interactions.
-- **Software development** — focused applications with maintainable
-  architecture, secure defaults, and a quality bar that survives handoff.
-- **Digital workflows** — lightweight tools that reduce repetitive work and
-  help small teams make better decisions.
+### 01 — Web design
+
+Responsive marketing sites and product interfaces with a clear visual system,
+strong content hierarchy, and accessible interactions.
+
+### 02 — Software development
+
+Focused applications with maintainable architecture, secure defaults, and a
+quality bar that survives handoff.
+
+### 03 — Digital workflows
+
+Lightweight tools that reduce repetitive work and help small teams make better
+decisions without adding operational noise.
 
 ## How we work
 
-### Purpose
-
-Every screen, endpoint, and automation should have a reason to exist. We start
-with the user outcome and keep the experience easy to understand.
-
-### Craft
-
-Good work is visible in the details: typography, responsive behavior,
-keyboard access, error states, performance, and documentation that stays true
-to the code.
-
-### Responsibility
-
-We prefer transparent scope, privacy-aware defaults, recoverable actions, and
-honest communication about constraints, risks, and what is still in progress.
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>Purpose</strong><br><br>Every screen, endpoint, and automation has a reason to exist. We start with the user outcome.</td>
+    <td width="33%" valign="top"><strong>Craft</strong><br><br>Typography, responsive behavior, keyboard access, error states, performance, and documentation are part of the product.</td>
+    <td width="33%" valign="top"><strong>Responsibility</strong><br><br>We prefer transparent scope, privacy-aware defaults, recoverable actions, and honest communication.</td>
+  </tr>
+</table>
 
 ## Selected work
 
-- [Angelbytes website](https://angelbytes.de/) — the studio website and public
-  point of contact.
-- **Angelbyte Desk** — current focus: a Windows workspace for structured lead
-  research and outreach preparation, built with a careful review step before
-  any external message is sent.
+<a href="https://angelbytes.de/">
+  <img src="https://angelbytes.de/assets/angelbytes-design-system.webp" alt="Angelbytes design system work" width="48%">
+</a>
+<a href="https://angelbytes.de/">
+  <img src="https://angelbytes.de/assets/angelbytes-software-architecture.webp" alt="Angelbytes software architecture work" width="48%">
+</a>
 
-## Working stack
+<p><a href="https://angelbytes.de/">Explore the Angelbytes website and current work</a></p>
 
-Our current product work combines React and Vite for web interfaces with
-TypeScript, Rust, Tauri, and SQLite for focused Windows desktop software. The
-stack is chosen per product; the goal is a small, understandable system rather
-than technology for its own sake.
+## Current focus
+
+### Angelbyte Desk
+
+Angelbyte Desk is our current Windows workspace for structured lead research
+and outreach preparation. It is being designed with a deliberate review step
+before any external message is sent, so speed never replaces judgment.
+
+The planned stack is Tauri, Rust, TypeScript, React, and SQLite. The product is
+in progress and is not presented as a released customer tool yet.
 
 ## Quality bar
 
 - Accessible hierarchy, keyboard support, readable contrast, and reduced-motion
   behavior where an interface needs motion.
-- Tests and production builds that are repeatable from documented commands.
+- Repeatable tests and production builds from documented commands.
 - Secure handling of contact data and secrets; credentials never belong in a
   repository or README.
 - Clear limitations and a useful handoff for the next person who maintains the
@@ -80,6 +89,7 @@ the next practical step rather than a generic sales pitch.
 
 - Website: [angelbytes.de](https://angelbytes.de/)
 - Email: [kontakt@angelbytes.de](mailto:kontakt@angelbytes.de)
+- GitHub: [Angelbytesde](https://github.com/Angelbytesde)
 
 <div align="center">
   <sub><code>ab.</code> Angelbytes · digital work with a human scale · 2026</sub>
