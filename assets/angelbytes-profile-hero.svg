@@ -17,9 +17,9 @@
   <text x="420" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">About</text>
   <text x="512" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">Insights</text>
   <text x="626" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="19">Contact</text>
-  <rect x="1180" y="46" width="66" height="48" rx="24" fill="#FFFFFF" stroke="#1248D5" stroke-width="3"/>
-  <text x="1203" y="77" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">EN</text>
-  <text x="1280" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.6">ANGELBYTES</text>
+  <rect x="1120" y="46" width="66" height="48" rx="24" fill="#FFFFFF" stroke="#1248D5" stroke-width="3"/>
+  <text x="1143" y="77" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">EN</text>
+  <text x="1212" y="81" fill="#0B0B0A" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.6">ANGELBYTES</text>
 
   <text x="86" y="208" fill="#F6C945" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">ANGELBYTES STUDIO</text>
   <text x="84" y="335" fill="#FFFFFF" font-family="Georgia, Times New Roman, serif" font-size="86" font-style="italic" letter-spacing="-2">Digital work with</text>
