@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://angelbytes.de/">
-    <img src="./assets/angelbytes-profile-hero.svg" alt="Angelbytes — digital products, websites, and software" width="100%">
+    <img src="./assets/angelbytes-profile-hero.svg" alt="Angelbytes — digital products, websites, and software">
   </a>
 </div>
 
@@ -53,7 +53,7 @@ decisions without adding operational noise.
 ## Selected work
 
 <a href="https://angelbytes.de/">
-  <img src="./assets/angelbytes-website-preview.png" alt="Angelbytes website showing the floating navigation, blue brand system, and editorial hero layout" width="100%">
+  <img src="./assets/angelbytes-website-preview.png" alt="Current Angelbytes website showing the floating navigation and two-card selected work carousel">
 </a>
 
 <p><a href="https://angelbytes.de/">Explore the Angelbytes website and current work</a></p>
